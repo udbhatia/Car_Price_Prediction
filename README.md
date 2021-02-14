@@ -8,10 +8,12 @@ Table of content<br>
 3)Data Preprocessing<br>
    - Checking missing values<br>
    - Checking for Unique values<br>
+   
 4)Exploratory Data Analysis<br>
    - Visualization<br>
    -  Looking for extreme high data entry<br>
    -  Understanding relationship between features<br>
+   
 5)Model Building<br>
    - Creating dummy variables<br>
    - Feature Importance<br>
