@@ -1,10 +1,10 @@
 # Car_Price_Prediction
 
 
-Table of content
+Table of content<br>
 
-1)Importing libraries
-2)Reading dataset
+1)Importing libraries<br>
+2)Reading dataset<br>
 3)Data Preprocessing
    i) Checking missing values
    ii) Checking for Unique values
