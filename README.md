@@ -7,17 +7,17 @@ Table of content<br>
 2)Reading dataset<br>
 3)Data Preprocessing<br>
    - Checking missing values<br>
-   ii) Checking for Unique values<br>
+   - Checking for Unique values<br>
 4)Exploratory Data Analysis<br>
-   i) Visualization<br>
-   ii) Looking for extreme high data entry<br>
-   iii) Understanding relationship between features<br>
+   - Visualization<br>
+   -  Looking for extreme high data entry<br>
+   -  Understanding relationship between features<br>
 5)Model Building<br>
-   i) Creating dummy variables<br>
-   ii) Feature Importance<br>
-   iii) Linear Regression<br>
-   iv) Support Vector Regressor<br>
-   v) Random Forest Regressor<br><br><br>
+   - Creating dummy variables<br>
+   - Feature Importance<br>
+   - Linear Regression<br>
+   - Support Vector Regressor<br>
+   - Random Forest Regressor<br><br><br>
 
    
 Kaggle Notebook link:- https://www.kaggle.com/udbhavbhatia/car-price-prediction<br>
