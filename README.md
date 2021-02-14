@@ -2,7 +2,7 @@
 
 
 Table of content<br>
-
+<pre>
 1)Importing libraries<br>
 2)Reading dataset<br>
 3)Data Preprocessing<br>
@@ -18,7 +18,7 @@ Table of content<br>
    iii) Linear Regression<br>
    iv) Support Vector Regressor<br>
    v) Random Forest Regressor<br><br><br>
-   
+</pre>   
    
 Kaggle Notebook link:- https://www.kaggle.com/udbhavbhatia/car-price-prediction<br>
 Kaggle Dataset link:- https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
