@@ -6,7 +6,7 @@ Table of content<br>
 1)Importing libraries<br>
 2)Reading dataset<br>
 3)Data Preprocessing<br>
-   -Checking missing values<br>
+   - Checking missing values<br>
    ii) Checking for Unique values<br>
 4)Exploratory Data Analysis<br>
    i) Visualization<br>
